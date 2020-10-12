@@ -25,10 +25,13 @@ github_username:  jekyll
 markdown: kramdown
 theme: minima
 
-languages: ["en", "ru"]
+
   
-gems:
-  - jekyll-feed
+gems: [jekyll-feed, 'jekyll-multiple-languages']
+
+languages:          ['en', 'ru']
+language_default:   'en'
+
 exclude:
   - Gemfile
   - Gemfile.lock
