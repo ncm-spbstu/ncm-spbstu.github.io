@@ -1,8 +1,8 @@
 ---
 layout: person
-name: stFirstName
-surname: stLastName 
-post: Junior researcher
+name: FirstName
+surname: LastName 
+post: Student
 email: 
 image: ava_female.jpg
 status: student
