@@ -14,13 +14,45 @@ ref: TestPartRef
   <h1>About us</h1>
   <!--{{ content }}-->
 
-  nyan
-  
+  Cat says: meow.
+ 
+<!-- 
   <div class="post-content">
     {% capture my_include %}{% include about.md %}{% endcapture %}
     {{ my_include | markdownify }}
   </div>
+-->
 
+
+</div>
+
+
+
+
+---
+layout: default
+title: TestPart
+permalink: /TestPart/
+
+lang: ru
+ref: TestPartRef
+---
+<h1 class="post-title"> TestPart </h1>
+
+
+
+<div class="home">
+  <h1>About us</h1>
+  <!--{{ content }}-->
+  
+  Кот говорит: мяу.
+ 
+<!-- 
+  <div class="post-content">
+    {% capture my_include %}{% include about.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+  </div>
+-->
 
 
 </div>
