@@ -1,0 +1,29 @@
+---
+layout: default
+title: Staff
+lang: ru
+ref: stuff
+permalink: /staff/
+---
+
+<h1 class="post-title"> Staff </h1>
+<h2>Senior members</h2>
+<div class="row-container">
+    {% assign sorted_persons = site.team | sort: "order" %}
+    {% for person in sorted_persons %}
+        {% if person.status == "senior" %}
+                <div class="card">
+                    <a class="post-link" href="{{ person.url | relative_url }}">
+                        <img src="{{ site.baseurl }}/images/team/{{ person.image }}" width=100%>
+                        <div class="person-info-container">
+                            
+                            <span style="white-space: nowrap">{{ person.name }} {{ person.surname }}</span>
+                            <span style="white-space: nowrap">{{ person.post }}</span>
+                        
+                        </div>
+                    </a>
+                </div>
+        {% endif %}
+    {% endfor %}
+</div>
+
