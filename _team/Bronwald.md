@@ -1,6 +1,6 @@
 ---
 layout: person
-name: Yuri
+name: Yuri!
 surname: Bronwald
 post: Junior researcher
 email: 
