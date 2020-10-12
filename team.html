@@ -3,6 +3,7 @@ layout: default
 title: Staff
 permalink: /staff/
 ---
+
 <h1 class="post-title"> Staff </h1>
 <h2>Senior members</h2>
 <div class="row-container">
@@ -24,6 +25,7 @@ permalink: /staff/
     {% endfor %}
 </div>
 
+
 <h2>Postgraduate students</h2>
 <div class="row-container">
     {% for person in site.team %}
@@ -41,6 +43,7 @@ permalink: /staff/
     {% endfor %}
 </div>
 
+
 <h2>Students</h2>
 <div class="row-container">
     {% for person in site.team %}
@@ -50,6 +53,7 @@ permalink: /staff/
                         <img src="{{ site.baseurl }}/images/team/{{ person.image }}" width=100%>
                         <div class="person-info-container">
                             <span style="white-space: nowrap">{{ person.name }} {{ person.surname }}</span>
+							<span style="white-space: nowrap">{{ person.post }}</span>
                         </div>
                     </a>
                 </div>
