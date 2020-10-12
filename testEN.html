@@ -12,7 +12,14 @@ ref: TestPartRef
   <h1>About us</h1>
 
   Cat says: meow.
- 
+  
+ <div class="lang">
+  <ul>
+    {% for post in posts %}
+      <li><a class="{{ post.lang }}" href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
 <!-- 
   <div class="post-content">
     {% capture my_include %}{% include about.md %}{% endcapture %}
