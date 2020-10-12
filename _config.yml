@@ -24,6 +24,9 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: minima
+
+languages: ["en", "ru"]
+  
 gems:
   - jekyll-feed
 exclude:
