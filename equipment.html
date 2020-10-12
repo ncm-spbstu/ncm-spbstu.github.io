@@ -1,0 +1,49 @@
+---
+layout: default
+title: Equipment
+permalink: /equipment/
+---
+
+<div class="home">
+
+  <h1 class="post-title"> Equipment </h1>
+  
+  <!--{{ content }}-->
+
+  <ul class="post-list">
+    {% for item in site.equipment %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+        </h2>
+        <div class="person_container">
+            <div class="photo_container">
+                <div class="image-box">
+                    <a class="post-link" href="{{ item.url | relative_url }}">
+                        <div class="image-box">
+                            <img src="{{ site.baseurl }}/images/equipment/{{item.image}}" width=100%>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        
+            <div class="info_container">
+                <div class="main_info_container">
+                    {{ item.excerpt }}
+                </div>
+            </div>
+        </div>
+        <div class="clear-dummy"></div>
+
+        <!-- {% if item.image %}
+        <a class="post-link" href="{{ item.url | relative_url }}">
+            <div class="image-box">
+                <img src="{{ site.baseurl }}/images/equipment/{{item.image}}" width=100%>
+            </div>
+        </a>
+        {% endif %} -->
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

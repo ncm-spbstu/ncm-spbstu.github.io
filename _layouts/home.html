@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1>About us</h1>
+  <!--{{ content }}-->
+  <div class="index_image">
+    <img src="{{ site.baseurl }}/images/index_photo.jpg" width=100%>
+  </div>
+
+
+  <div class="post-content">
+    {% capture my_include %}{% include about.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+  </div>
+
+
+
+</div>

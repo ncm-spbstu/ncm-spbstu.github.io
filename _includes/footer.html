@@ -1,0 +1,37 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.footer_title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+        <ul class="contact-list">
+
+          {% if site.email %}
+          <li>
+            <span class="icon contact">{% include icon-mail.svg %}</span>
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          </li>
+          {% endif %}
+          
+          <li>
+            <span class="icon contact">{% include icon-location.svg %}</span>
+            <a href="https://www.google.ru/maps/place/2-%D0%B9+%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81+%D0%A1%D0%9F%D0%B1%D0%9F%D0%A3/@60.0085408,30.3725727,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x469633994cfdda67:0xb43eef93c90fcdec!2z0KHQsNC90LrRgi3Qn9C10YLQtdGA0LHRg9GA0LPRgdC60LjQuSDQv9C-0LvQuNGC0LXRhdC90LjRh9C10YHQutC40Lkg0YPQvdC40LLQtdGA0YHQuNGC0LXRgiDQn9C10YLRgNCwINCS0LXQu9C40LrQvtCz0L4!8m2!3d60.0072983!4d30.3729168!3m4!1s0x4696339c2e5699b9:0xcd1f3bcc00252df5!8m2!3d60.0085408!4d30.3747667">St.Petersburg, 29 Polytechnicheskaya st.</a> 
+          </li>
+          
+          
+          <li>
+            <span class="icon contact">{% include icon-phone.svg %}</span>
+            +7 (812) 552-73-33
+          </li>
+          
+        </ul>
+      </div>
+
+
+
+  </div>
+
+</footer>
