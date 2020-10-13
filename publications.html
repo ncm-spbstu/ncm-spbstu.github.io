@@ -9,10 +9,14 @@ permalink: /publications/
     {% for publication in publication_sorted %}
     <div class="publication_item_container">
         <li>
+		<!--
         <time datetime="{{ publication.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {{ publication.date | date: date_format }}
         </time>
+		-->
+		<div> {{ publication.date }} </div>
+		
         <h3>
             <a href="{{ publication.url | relative_url }}">{{ publication.title | escape }}</a>
         </h3>
