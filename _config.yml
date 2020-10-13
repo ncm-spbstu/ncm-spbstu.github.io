@@ -25,12 +25,7 @@ github_username:  jekyll
 markdown: kramdown
 theme: minima
 
-
-  
-gems: [jekyll-feed, 'jekyll-multiple-languages']
-
-languages:          ['en', 'ru']
-language_default:   'en'
+gems: 'jekyll-feed'
 
 exclude:
   - Gemfile
