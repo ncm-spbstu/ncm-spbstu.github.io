@@ -18,9 +18,11 @@ permalink: /publications/
         </h3>
         <div> {{ publication.authors }}</div>
         <a class="source" href="{{ publication.source }}">Source</a>
+		<!--
         {% if publication.content %}
             <a class="abstract" href="{{ publication.url | relative_url }}">Abstract</a>
         {% endif %}
+		-->
         </li>
     </div>
     {% endfor %}
