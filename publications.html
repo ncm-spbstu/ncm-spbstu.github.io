@@ -17,7 +17,10 @@ permalink: /publications/
             <a href="{{ publication.url | relative_url }}">{{ publication.title | escape }}</a>
         </h3>
         <div> {{ publication.authors }}</div>
-		<div> {{ publication.journal }}</div>
+		
+		<!-- <div> {{ publication.journal }}</div>-->
+		<p font-style:italic;> {{ publication.journal }}  </p>
+		
         <a class="source" href="{{ publication.source }}">Source</a>
 		<!--
         {% if publication.content %}
@@ -28,3 +31,5 @@ permalink: /publications/
     </div>
     {% endfor %}
 </ul>
+
+
