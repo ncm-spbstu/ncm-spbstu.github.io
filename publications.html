@@ -16,14 +16,11 @@ permalink: /publications/
         <h3>
             <a href="{{ publication.url | relative_url }}">{{ publication.title | escape }}</a>
         </h3>
-        <div> {{ publication.authors }}</div>
-		
-		<div> {{ publication.journal }} </div>
-		
-		
-        <p><i> {{ publication.journal }}: </i></p> <a class="source" href="{{ publication.source }}">DOI</a>
-		
-		
+        <div> {{ publication.authors }} </div>
+				
+        <p><i> {{ publication.journal }}: </i>
+		<a class="source" href="{{ publication.source }}">DOI</a>
+		</p>
 		<!--
         {% if publication.content %}
             <a class="abstract" href="{{ publication.url | relative_url }}">Abstract</a>
