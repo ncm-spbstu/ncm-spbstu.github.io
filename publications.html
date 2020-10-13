@@ -18,7 +18,7 @@ permalink: /publications/
         </h3>
         <div> {{ publication.authors }}</div>
 		
-		<div> *{{ publication.journal }}* </div>
+		<div> {{ *publication.journal* *test in* }} *test out* </div>
 		
         <a class="source" href="{{ publication.source }}">Source</a>
 		<!--
