@@ -21,7 +21,9 @@ permalink: /publications/
 		<div> {{ publication.journal }} </div>
 		
 		
-        <a class="source" href="{{ publication.source }}">Source <p><i> {{ publication.journal }} </i></p> </a>
+        <p><i> {{ publication.journal }}: </i></p> <a class="source" href="{{ publication.source }}">DOI</a>
+		
+		
 		<!--
         {% if publication.content %}
             <a class="abstract" href="{{ publication.url | relative_url }}">Abstract</a>
