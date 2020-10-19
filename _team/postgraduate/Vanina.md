@@ -4,6 +4,6 @@ name: Polina
 surname: Vanina
 post: Junior researcher
 email: 
-image: ava_female.jpg
+image: Vanina.JPG
 status: postgraduate
 ---
