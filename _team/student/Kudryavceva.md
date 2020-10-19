@@ -1,6 +1,6 @@
 ---
 layout: person
-name: Anastasia .
+name: Anastasia
 surname: Begun
 post: Student
 email: 
