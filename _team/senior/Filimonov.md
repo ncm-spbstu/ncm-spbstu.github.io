@@ -2,7 +2,7 @@
 layout: person
 name: Alexey V.
 surname: Filimonov
-post: Director of the NCM laboratory
+post: Director of the NCM <br> laboratory
 email: 
 image: Filimonov.jpg
 status: senior
