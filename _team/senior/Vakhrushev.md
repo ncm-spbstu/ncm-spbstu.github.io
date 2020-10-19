@@ -1,11 +1,14 @@
 ---
 layout: person
-name: Sergey
+name: Sergey B.
 surname: Vakhrushev
-post: Research Supervisor
-email: s.vakhrushev@mail.ioffe.ru
+post: Scientific director
+email: 
 image: Vakhrushev.jpg
 status: senior
 order: 1
 ---
-Professor, head of laboratory of neutron research Ioffe Physico-Technical Institute, professor of Saint-Petersburg State Polytechnical department of Physics Electronic, vise-president of Russian Neutron society. Supervisor of research and Education Center «Physics of Nanocomposite Materials».
+Doctor of Physical and Mathematical Sciences, Senior researcher, Head of the Laboratory of Neutron Research
+of the Ioffe institute, Professor of the Higher Engineering Physics School of the Institute
+of Physics of Nanotechnologies and Telecommunications, SPbPU, Vice-President of the Russian
+Neutronographic Society.

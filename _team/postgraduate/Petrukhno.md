@@ -1,12 +1,12 @@
 ---
 layout: person
-name: Alexander F.
-surname: Vakulenko
+name: Konstantin A.
+surname: Petrukhno
 post: Engineer
 email: 
-image: Vakulenko.jpg
+image: Petrukhno.jpg
 status: postgraduate
-order: 1
+order: 4
 ---
 Engineer of the Higher Engineering Physics School of the Institute of Physics
 of Nanotechnologies and Telecommunications, SPbPU.
