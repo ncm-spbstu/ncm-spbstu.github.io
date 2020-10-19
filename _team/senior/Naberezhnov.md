@@ -1,7 +1,7 @@
 ---
 layout: person
 name: Alexander A.
-surname: <br />Naberezhnov
+surname: Naberezhnov
 post: Senior researcher
 email: 
 image: Naberezhnov.jpg
