@@ -4,7 +4,7 @@ name: Yurii A.
 surname: Kumzerov
 post: Senior researcher
 email: 
-image: Kumzerov.jpg
+image: ava_male.jpg
 status: senior
 order: 10
 ---

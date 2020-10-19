@@ -4,7 +4,7 @@ name: Yurii A.
 surname: Bronwald
 post: Research engineer
 email: 
-image: Bronwald.jpg
+image: ava_male.jpg
 status: senior
 order: 8
 ---

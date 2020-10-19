@@ -4,7 +4,7 @@ name: Galina A.
 surname: Politova
 post: Senior researcher
 email: 
-image: Politova.jpg
+image: ava_female.jpg
 status: senior
 order: 12
 ---

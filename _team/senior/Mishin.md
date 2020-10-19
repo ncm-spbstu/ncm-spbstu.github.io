@@ -4,7 +4,7 @@ name: Maxim V.
 surname: Mishin
 post: Senior researcher
 email: 
-image: Mishin.jpg
+image: ava_male.jpg
 status: senior
 order: 13
 ---

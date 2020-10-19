@@ -4,7 +4,7 @@ name: Tatiana K.
 surname: Gasyak
 post: Student
 email: 
-image: Gasyak.jpg
+image: ava_female.jpg
 status: student
 order: 2
 ---

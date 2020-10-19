@@ -4,7 +4,7 @@ name: Anastasia .
 surname: Begun
 post: Student
 email: 
-image: Kudryavceva.jpg
+image: ava_female.jpg
 status: student
 order: 4
 ---
