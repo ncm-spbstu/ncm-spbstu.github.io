@@ -4,7 +4,7 @@ name: Roman G.
 surname: Burkovsky
 post: Associate professor
 email: 
-image: Burkovsky.jpg
+image: Burkovskii.jpg
 status: senior
 order: 5
 ---
