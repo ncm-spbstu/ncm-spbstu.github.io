@@ -4,7 +4,7 @@ name: Arina V.
 surname: Kudryavceva
 post: Student
 email: 
-image: Kudryavceva.jpg
+image: ava_female.jpg
 status: student
 order: 3
 ---
