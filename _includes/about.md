@@ -12,8 +12,9 @@ All accomplishments of REC are the result of co-operation between students, PhD 
 
 Based on experimental bases REC has the opportunity to use:
 
-- Methods of impedance spectroscopy (conductivity, dielectric response) in frequency range 10<sup>-6</sup> Hz – 10<sup>7</sup> Hz in interval of temperature 3.5 К – 700 К, including the interval 3.5 К – 300 К in magnetic fields up to 9 T.
-- Methods of probe microscopy in the temperature interval 3.5 К – 300 К in magnetic fields up to 9.5 T.
+- Methods of impedance spectroscopy (conductivity, dielectric response) in frequency range 10<sup>-6</sup> Hz – 10<sup>7</sup> Hz in range of temperature 3.5 К – 700 К, including the range 3.5 К – 300 К in magnetic fields up to 9 T.
+- Methods of probe microscopy in the temperature range 3.5 К – 300 К in magnetic fields up to 9.5 T.
+- Methods of X-ray diffraction to work out crystal structure dynamics in the temperature range 100 К – 750 К and the external electric field source up to 1kV.
 - Methods of inelastic neutron scattering to investigate atomic dynamics.
 - Methods of neutron diffraction to investigate crystallographic and magnetic structure.
 
