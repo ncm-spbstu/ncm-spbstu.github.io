@@ -4,7 +4,7 @@ REC is a joint project of largest scientific and educational centers of region, 
 
 Major scientific directions of REC NCM are creation and investigation of:
 
-- self-organized nanostructured materials for electronics.
+- Self-organized nanostructured materials for electronics.
 - Artificial nanocomposite structure on the bases of dielectric matrixes. 
 
 All accomplishments of REC are the result of co-operation between students, Phs students and leading Russian scientists. Large attention is payed to internation co-operation in which at all times young scientists participate. Students and PhD students of REC took part in many experiments in leading research centers of Germany, France and Japan, they have done a number of reports at largest international conferences.
