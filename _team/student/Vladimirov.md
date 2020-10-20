@@ -1,12 +1,12 @@
 ---
 layout: person
-name: Arina V.
-surname: Kudryavceva
+name: Mikhail V.
+surname: Vladimirov
 post: Student
 email: 
-image: Kudryavceva.jpg
+image: Vladimirov.jpg
 status: student
-order: 3
+order: 6
 ---
 Student of the Higher Engineering Physics School of the Institute of Physics
 of Nanotechnologies and Telecommunications, SPbPU.

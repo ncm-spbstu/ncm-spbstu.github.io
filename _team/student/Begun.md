@@ -1,12 +1,12 @@
 ---
 layout: person
-name: Arina V.
-surname: Kudryavceva
+name: Anastasia
+surname: Begun
 post: Student
 email: 
-image: Kudryavceva.jpg
+image: ava_male.jpg
 status: student
-order: 3
+order: 4
 ---
 Student of the Higher Engineering Physics School of the Institute of Physics
 of Nanotechnologies and Telecommunications, SPbPU.

@@ -1,12 +1,12 @@
 ---
 layout: person
-name: Arina V.
-surname: Kudryavceva
+name: Jamil E.
+surname: Flores Gonsales
 post: Student
 email: 
-image: Kudryavceva.jpg
+image: Flores.jpg
 status: student
-order: 3
+order: 5
 ---
 Student of the Higher Engineering Physics School of the Institute of Physics
 of Nanotechnologies and Telecommunications, SPbPU.
